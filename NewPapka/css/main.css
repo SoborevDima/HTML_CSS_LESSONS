@@ -1,3 +1,12 @@
 body {
     color:blue;
 }
+.main-text {
+    color:red
+}
+#text-in-p {
+    color:blueviolet
+}
+div p b, div i {
+    color:green
+}
