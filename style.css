@@ -6,3 +6,6 @@
     color:blueviolet;
 }
 #loremText{color:aquamarine}
+.main_link {
+    cursor: pointer;
+}
