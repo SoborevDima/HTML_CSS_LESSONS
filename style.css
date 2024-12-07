@@ -10,8 +10,13 @@
     cursor: pointer;
 }
 body {
-    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUrCF3YDjXHhg0jmm7TsuYb6s1iTk2SVKbFOOOXjK3_jKPmUd1LzgOLIcUAmtEBlI-dS0&usqp=CAU);
+    background-image: url(https://steamuserimages-a.akamaihd.net/ugc/2154468342525418763/6756D70B5826F68E688FDF5CFD2CFBCE67A86B30/?imw=512&amp;imh=291&amp;ima=fit&amp;impolicy=Letterbox&amp;imcolor=%23000000&amp;letterbox=true);
     background-color: beige;
     background-position: center;
-    
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: auto;
+}
+for,input,label {
+    color:white;
 }
