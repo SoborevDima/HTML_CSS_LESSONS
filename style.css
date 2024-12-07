@@ -9,3 +9,9 @@
 .main_link {
     cursor: pointer;
 }
+body {
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUrCF3YDjXHhg0jmm7TsuYb6s1iTk2SVKbFOOOXjK3_jKPmUd1LzgOLIcUAmtEBlI-dS0&usqp=CAU);
+    background-color: beige;
+    background-position: center;
+    
+}

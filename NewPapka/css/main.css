@@ -20,3 +20,17 @@ div p b, div i {
     text-decoration-color: red;
     cursor:pointer;
 }
+#first {
+    background-color:#423f54 ;
+    color:blue;
+    background-image: url(https://images.wallpaperscraft.com/image/single/lake_mountain_tree_36589_2650x1600.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 500px;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+#second {
+    height: 2000px;
+}
