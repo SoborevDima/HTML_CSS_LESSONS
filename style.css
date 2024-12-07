@@ -17,6 +17,8 @@ body {
     background-attachment: fixed;
     background-size: auto;
 }
-for,input,label {
+body {
     color:white;
+    text-align: center;
+    font-size:20px;
 }
