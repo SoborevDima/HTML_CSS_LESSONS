@@ -1,36 +1,43 @@
 body {
-    color:blue;
+  color: blue;
 }
+
 .main-text {
-    color:red
+  color: red;
 }
+
 #text-in-p {
-    color:blueviolet
+  color: blueviolet;
 }
-div p b, div i {
-    color:green
+
+div p b,
+div i {
+  color: green;
 }
+
 .main_link {
-    color:red;
-    text-decoration: none;
+  color: red;
+  text-decoration: none;
 }
+
 .main_link:hover {
-    color:blue;
-    text-decoration:underline;
-    text-decoration-color: red;
-    cursor:pointer;
+  color: blue;
+  text-decoration: underline;
+  text-decoration-color: red;
+  cursor: pointer;
 }
+
 #first {
-    background-color:#423f54 ;
-    color:blue;
-    background-image: url(https://images.wallpaperscraft.com/image/single/lake_mountain_tree_36589_2650x1600.jpg);
-    background-repeat: no-repeat;
-    background-position: center;
-    height: 500px;
-    background-size: cover;
-    background-attachment: fixed;
+  background-color: #423f54;
+  color: blue;
+  background-image: url(https://images.wallpaperscraft.com/image/single/lake_mountain_tree_36589_2650x1600.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  height: 500px;
+  background-size: cover;
+  background-attachment: fixed;
 }
 
 #second {
-    height: 2000px;
+  height: 2000px;
 }
